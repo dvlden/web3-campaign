@@ -4,6 +4,9 @@ A project built with **Solidity** + **Vue 3**.
 
 **REPLACE THIS WITH AN ACTUAL SCREENSHOT** _(on project completion)_
 
+## WARNING
+This is an on-going project. There's no client-side application at this time.
+
 Each directory has its own corresponding README file, to get you started. But if you just want to run the project, you may do so:
 
 - `cd client && npm i && npm run dev`
